@@ -26,4 +26,23 @@ Built using PivotTables to summarize the data:
 ### Dashboard Sheet
 - Region and Year slicers to filter the dashboard
 - KPI cards for Total Sales, Units Sold, Average Price, and Total Operating Profit
-- Sales and Variance
+- Sales and Variance tables by Brand and by Retailer
+- A chart showing Sales and Profit Margin by Quarter
+
+## Tools Used
+Microsoft Excel (PivotTables, Slicers, Charts, Formulas)
+
+## Files
+- `Dashboard Start.xlsx` - the full Excel dashboard file
+
+## Skills Used
+- Data cleaning and structuring
+- PivotTable analysis
+- Dashboard design
+- KPI reporting
+- Data visualization
+
+## Contact
+Abeer Ullah Danish
+LinkedIn: linkedin.com/in/abeer-ullah-danish-64442a313
+Portfolio: abeerullahdanish.github.io/portfolio-Website/
